@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+node_modules/
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+build/
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Ignore all contents of the model directory...
+# model/

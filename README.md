@@ -66,4 +66,5 @@ Do you want me to make this `README.md` **ready to commit** into your repo (so y
 
 <img width="967" height="796" alt="nepali" src="https://github.com/user-attachments/assets/f1c7f0b0-d48d-4022-9342-0f05ebb76ad5" />
 
+<img width="724" height="446" alt="Screenshot 2025-09-15 093842" src="https://github.com/user-attachments/assets/00cbe789-8476-47f0-a8cd-78ee5586ea3c" />
 
